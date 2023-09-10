@@ -3,7 +3,7 @@
 # File Anomaly Finder 2.0
 ##############################################################################
 # This script continues work by Ryan MacDonald at R-FX Networks.
-# To protect and empower. -QVLx Labs
+# To protect and empower.
 ##############################################################################
 
 WHICH_CMD=$(command -v which)
@@ -15,7 +15,7 @@ TOUCH_CMD="$(which touch)"
 CAT_CMD="$(which cat)"
 RM_CMD="$(which rm)"
 
-# Define the output file path
+# Define the output file path here
 RESULTS="results_faf.txt"
 
 dosearch() {
