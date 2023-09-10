@@ -4,7 +4,7 @@ I like the idea behind the original FAF. So went ahead and reworked it a bit. Th
 This script runs on Unix-based host or guest systems.
 
 This is the original:
-#!/bin/sh
+`#!/bin/sh
 ##############################################################################
 #
 # You may edit anything below this point at your own risk, do not request
@@ -84,6 +84,7 @@ case "$1" in
 	;;
 *)
 	echo "usage $0: [-s] [-q]"
+ `
 	echo "-s	Standard"
 	echo "-q	Quiet"
 esac
