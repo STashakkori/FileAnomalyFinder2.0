@@ -3,7 +3,10 @@ I like the idea behind the original FAF. So went ahead and reworked it a bit. Th
 
 This script runs on Unix-based host or guest systems.
 
-This is the original:
+If all goes well will look like this:
+![image](https://github.com/STashakkori/FileAnomalyFinder2.0/assets/4257899/9bc32931-8ec6-474d-a9ce-3211403b2e0e)
+
+This is the original FAF 1.0:
 ```
 #!/bin/sh
 ##############################################################################
